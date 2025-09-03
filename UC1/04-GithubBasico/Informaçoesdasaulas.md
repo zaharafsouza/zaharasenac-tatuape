@@ -1,0 +1,1 @@
+começei a estudar 

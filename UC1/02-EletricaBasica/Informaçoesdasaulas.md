@@ -39,11 +39,10 @@ U = R \cdot I
 - **R** = Resistência (Ω = ohms) — *componente mais importante*  
 - **I** = Corrente (A = ampère)  
 
-**Triângulo da Lei de Ohm**  
+# 🔺 Triângulo da Lei de Ohm
+
 - Vertical = divisão (de cima para baixo)  
 - Horizontal = multiplicação
-- # 🔺 Triângulo da Lei de Ohm
-
 
 
 > ⚠️ **A corrente nunca será maior que a tensão.**  
@@ -53,12 +52,6 @@ U = R \cdot I
 
 ### Potência Elétrica
 - **P** = Potência (W = watts)
-
-Relação básica:
-\[
-P = U \cdot I
-\]
-
 ---
 
 ## 🖥️ Informações sobre Fontes de Computador

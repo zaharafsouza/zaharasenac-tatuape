@@ -42,7 +42,8 @@ U = R \cdot I
 # 🔺 Triângulo da Lei de Ohm
 # Lei de Ohm
 
-![Triângulo da Lei de Ohm](imagens/triangulo-ohm.png)
+<img width="1276" height="884" alt="image" src="https://github.com/user-attachments/assets/382d2bda-2ada-4580-974a-77af0c048966" />
+
 
 - Vertical = divisão (de cima para baixo)  
 - Horizontal = multiplicação

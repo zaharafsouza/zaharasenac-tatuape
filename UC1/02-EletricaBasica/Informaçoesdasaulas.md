@@ -44,9 +44,7 @@ U = R \cdot I
 
 <img width="1276" height="884" alt="image" src="https://github.com/user-attachments/assets/382d2bda-2ada-4580-974a-77af0c048966" />
 
-
-- Vertical = divisão (de cima para baixo)  
-- Horizontal = multiplicação
+<img width="1276" height="957" alt="image" src="https://github.com/user-attachments/assets/fcaffabc-e15f-4a75-8877-c3b88ca42cdc" />
 
 
 > ⚠️ **A corrente nunca será maior que a tensão.**  

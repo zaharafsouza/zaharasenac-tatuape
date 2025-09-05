@@ -41,7 +41,10 @@ U = R \cdot I
 
 **Triângulo da Lei de Ohm**  
 - Vertical = divisão (de cima para baixo)  
-- Horizontal = multiplicação  
+- Horizontal = multiplicação
+- # 🔺 Triângulo da Lei de Ohm
+
+
 
 > ⚠️ **A corrente nunca será maior que a tensão.**  
 > Se for maior ou igual, ocorre curto-circuito.
@@ -72,21 +75,6 @@ P = U \cdot I
 - Corrente padrão: **0,02 A (20 mA)**  
 - LED branco: **3 V**
 
-**Fórmula:**
-\[
-R_{LED} = \frac{V_{\text{fonte}} - V_{\text{LED}}}{I_{\text{LED}}}
-\]
-
-**Exemplo:**  
-- \( V_{\text{fonte}} = 5\,\text{V} \)  
-- \( V_{\text{LED}} = 3\,\text{V} \)  
-- \( I_{\text{LED}} = 0{,}02\,\text{A} \)  
-
-\[
-R_{LED} = \frac{5 - 3}{0{,}02} = 100\,\Omega
-\]
-
-Use um resistor de **100 Ω** (ou valor comercial próximo).
 
 ---
 

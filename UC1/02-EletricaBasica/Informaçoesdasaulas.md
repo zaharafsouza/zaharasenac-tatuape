@@ -40,6 +40,9 @@ U = R \cdot I
 - **I** = Corrente (A = ampère)  
 
 # 🔺 Triângulo da Lei de Ohm
+# Lei de Ohm
+
+![Triângulo da Lei de Ohm](imagens/triangulo-ohm.png)
 
 - Vertical = divisão (de cima para baixo)  
 - Horizontal = multiplicação

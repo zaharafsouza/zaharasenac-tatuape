@@ -8,3 +8,16 @@
 7- Memoria RAM
 8- fornece energia para toda placa mãe 
 9- Conector para portas USB
+10- Conectores para ventoinhas do gabinete
+11- Conectores para SSD e HDD
+12- Conectores do painel frontal
+13- Tipo C – frontal do gabinete
+14- Módulo de Plataforma Confiável
+15- Conectores de áudio frontal
+16- 
+17- Chipset da placa-mãe
+18- Firmware da placa-mãe
+19- Slot PCI Express x16 (para placa de vídeo, reforçado em metal)
+20- Slot PCI Express x1 (expansão menor – placa de som, rede, etc.)
+21- Slot PCI Express x4 (expansão para SSDs NVMe adicionais, capturas, etc.)
+

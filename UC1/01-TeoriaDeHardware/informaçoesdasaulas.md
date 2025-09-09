@@ -43,3 +43,7 @@ O VRM é responsável por fornecer a energia correta para o processador e memór
 Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprometer a estabilidade do sistema.
 
 
+
+Stok- do jeito que ele vem de fabrica 
+
+

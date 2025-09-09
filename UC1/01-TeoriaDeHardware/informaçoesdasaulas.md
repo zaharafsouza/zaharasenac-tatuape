@@ -19,5 +19,9 @@
 18- Firmware da placa-mãe
 19- Slot PCI Express x16 (para placa de vídeo, reforçado em metal)
 20- Slot PCI Express x1 (expansão menor – placa de som, rede, etc.)
-21- Slot PCI Express x4 (expansão para SSDs NVMe adicionais, capturas, etc.)
+21- Slot PCI Express x4 (expansão para SSDs NVMe adicionais, capturas, etc)
+
+VRM
+<img width="1200" height="1200" alt="VRM" src="https://github.com/user-attachments/assets/7cba4c10-6b3e-4009-966e-92256ed1e138" />
+
 

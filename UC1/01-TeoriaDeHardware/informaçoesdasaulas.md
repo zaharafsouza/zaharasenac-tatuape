@@ -48,5 +48,5 @@ Stok- do jeito que ele vem de fabrica
 
 
 Aula do dia 11/09
-PWM- conectores da FAN
+PWM- conectores da FAN para ela girar
 

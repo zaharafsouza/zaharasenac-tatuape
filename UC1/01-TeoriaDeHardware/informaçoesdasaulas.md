@@ -4,7 +4,7 @@
 <img width="606" height="607" alt="Capturar" src="https://github.com/user-attachments/assets/57741aaf-4f58-4b34-8123-a4afadfd23e9" />
 
 <img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/a755edaa-49d4-404f-bd6e-2e1dfb700ce4" />
-
+obervação: a imagem acima é da aula do dia 11/09/25
 ---
 
 ## VRM (Voltage Regulator Module)
@@ -28,7 +28,6 @@ Stok- do jeito que ele vem de fabrica
 
 
 Aula do dia 11/09
-<img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/a755edaa-49d4-404f-bd6e-2e1dfb700ce4" />
 
 PWM- conectores da FAN para ela girar
 RGB 12v- 4 pinos 

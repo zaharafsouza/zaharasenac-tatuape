@@ -62,3 +62,39 @@ Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprom
 ---
 
 ✨ Material produzido durante as aulas práticas de **Hardware e Arquitetura de Computadores**.  
+
+
+<img width="396" height="398" alt="Capturar" src="https://github.com/user-attachments/assets/d21b04ed-74c0-4c44-b8aa-46e2b78c352a" />
+
+1- CPU 4+4
+2-VRM
+3- Socket do processador 
+4- PWM FAN
+5- ARGB
+6- Debug
+7- ATX
+8- USB 3.0
+9- USB C
+10- CHA FAN
+11- SATA
+12- Painel frontal
+13- USB 2.0
+14- Audio
+15- NVME SSD
+16- Placa de video 
+17- Pci Express 1x
+18- Pci Express 4x
+19- Bateria
+20- Memoria RAM
+21- 
+
+
+1- Socket do processador 
+2- VRM
+3-PWM FAN
+4- Memoria
+5- CPU 4+4 
+6- Debug
+7-ATX
+8- USB C
+9- 

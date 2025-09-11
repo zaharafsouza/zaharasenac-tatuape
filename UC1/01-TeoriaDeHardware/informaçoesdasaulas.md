@@ -96,5 +96,5 @@ Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprom
 5- CPU 4+4 
 6- Debug
 7-ATX
-8- USB C
+8- SATA
 9- 

@@ -48,6 +48,8 @@ Stok- do jeito que ele vem de fabrica
 
 
 Aula do dia 11/09
+<img width="2400" height="2400" alt="b650m-aula-desenhado-do-LELE" src="https://github.com/user-attachments/assets/a755edaa-49d4-404f-bd6e-2e1dfb700ce4" />
+
 PWM- conectores da FAN para ela girar
 RGB 12v- 4 pinos 
 ARGB 5v- 3 pinos

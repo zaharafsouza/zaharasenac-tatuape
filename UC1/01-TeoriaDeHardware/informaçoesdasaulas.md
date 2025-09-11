@@ -8,7 +8,7 @@
 3. **VRM (Módulo Regulador de Voltagem)**  
 4. **Conectores para ventoinhas/bombas**  
 5. **Conectores de LED**  
-6. **Conector de energia para identificar**  
+6. **Debug LED**
 7. **Memória RAM**  
 8. **Fornece energia para toda a placa-mãe**  
 9. **Conector para portas USB**  
@@ -51,4 +51,10 @@ Aula do dia 11/09
 PWM- conectores da FAN para ela girar
 RGB 12v- 4 pinos 
 ARGB 5v- 3 pinos
-
+quando exite um speaker eles faz certos sons
+Bipes longos e espaçados podem indicar problema na memoria RAM
+Bipes rapidos sem espaços pode indicar problema na placa de video
+POST- alto teste de inicialização
+AS USB azuis (3.0) são mais rapidas, já as pretas (2.0) são mais devagar  
+As entradas satas server para ligar ssd hdd
+Pci E 1x- para conectar wife etc

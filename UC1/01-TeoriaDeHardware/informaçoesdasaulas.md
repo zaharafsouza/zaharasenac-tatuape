@@ -98,3 +98,21 @@ Se ele não for eficiente ou estiver sobrecarregado, pode superaquecer e comprom
 7-ATX
 8- SATA
 9- 
+
+
+
+
+AULA DO DIA 16/09/2025 
+PLACAS MAE DA AMD
+A- entrada 
+B- intermediario
+X- topo de linha 
+
+PLACA MAE DA INTEL
+H- entrada
+
+Z- topo de linha 
+
+
+
+

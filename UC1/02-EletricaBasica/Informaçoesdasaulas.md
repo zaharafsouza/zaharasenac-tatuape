@@ -81,4 +81,8 @@ U = R \cdot I
 - Fonte: PSU • PFC • 80 Plus • Full Range  
 - LED: \( R = \frac{V_{\text{fonte}} - V_{\text{LED}}}{I_{\text{LED}}} \)
 
+
+v com senoide/tenção alternada 
+v com um traç
+
  

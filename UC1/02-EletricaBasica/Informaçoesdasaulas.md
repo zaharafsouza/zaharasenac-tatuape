@@ -82,7 +82,7 @@ U = R \cdot I
 - LED: \( R = \frac{V_{\text{fonte}} - V_{\text{LED}}}{I_{\text{LED}}} \)
 
 
-v com senoide/tenção alternada 
-v com um traç
+v com senoide- tenção alternada 
+v com um traço- tenção continua 
 
  

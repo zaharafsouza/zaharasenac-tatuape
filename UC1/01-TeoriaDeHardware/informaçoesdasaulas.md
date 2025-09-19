@@ -110,9 +110,12 @@ X- topo de linha
 
 PLACA MAE DA INTEL
 H- entrada
-
+b- intermediaria
 Z- topo de linha 
 
-
+AULA DO DIA 19/09/25
+QUANTO TERMINA COM 50 É A MAIS BASICA 
+quanto termina com 60 é a intermediaria 
+quando termina com 70 é intermediaria para top 
 
 

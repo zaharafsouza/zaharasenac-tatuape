@@ -1,3 +1,5 @@
+![GitHub License](https://img.shields.io/github/license/zaharafsouza/robo-desvia?style=plastic)
+
 # 💻 Curso Técnico em Informática - SENAC Tatuapé
 
 Este repositório tem como finalidade **documentar e organizar os conteúdos estudados** durante as **Unidades Curriculares (UCs)** do curso Técnico em Informática no **SENAC Tatuapé**.  
